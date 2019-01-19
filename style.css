@@ -1,0 +1,35 @@
+
+#navbar {
+position: fixed; 
+}
+
+nav-link {
+position: fixed;  
+}
+
+
+header {
+font-size: 20px;
+font-family: georgia; 
+}
+
+body {
+background-color: #ffffff;  
+}
+
+@media screen and (max-width: 992px) {
+  body {
+    background-color: #59707A;
+  }
+}
+
+@media screen and (max-width: 600px) {
+  body {
+    background-color: purple;
+  }
+}
+
+.main-section {
+text-align: center;  
+}
+
